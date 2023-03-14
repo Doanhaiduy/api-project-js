@@ -184,13 +184,5 @@
             "source": "Form-validation",
             "live_demo": "Form-validation"
         },
-        {
-            "id": 53,
-            "title": "Form Validation",
-            "image": "/project-52.png",
-            "release_date": "2023-02-25",
-            "source": "Form-validation",
-            "live_demo": "Form-validation"
-        }
     ]
 }
